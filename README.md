@@ -25,6 +25,12 @@ mpm_data
   ├── sub-02_ses-01
   └── sub-02_ses-02
       └── anat
+          ├── sub-02_ses-02_echo-1_T1w.nii
+          ├── sub-02_ses-02_echo-2_T1w.nii
+          ├── sub-02_ses-02_echo-3_T1w.nii
+          ├── sub-02_ses-02_echo-4_T1w.nii
+          ├── sub-02_ses-02_echo-5_T1w.nii
+          ├── sub-02_ses-02_echo-6_T1w.nii
           ├── sub-02_ses-02_RFSC_MT.nii
           ├── sub-02_ses-02_RFSC_PD.nii
           ├── sub-02_ses-02_RFSC_R1.nii
@@ -33,5 +39,5 @@ mpm_data
 
 ## SCT version
 
-This pipeline has been tested on 4.0.1, which can be downloaded here:
+This pipeline has been tested on 4.0.2, which can be downloaded here:
 https://github.com/neuropoly/spinalcordtoolbox/releases
